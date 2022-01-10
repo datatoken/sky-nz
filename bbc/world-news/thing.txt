@@ -1,0 +1,2 @@
+url: https://prod-skyonelive.akamaized.net/bbc-world-news.mpd
+drm: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKesAJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGDNM0J3qN0JcJcclABAa80LJdkby0YtZ5AFd3cGQDmrOHBIgs5I4E0OkNKmZ4xJGc3jl3YF36byn9wWymh0AM4_EtmSF5lXjd4zdYbKNXIK4XtuGyS4eABxypQSePpQxd5474qb-_WTqdHk98X2PRRzo5peIA
