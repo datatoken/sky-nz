@@ -1,0 +1,2 @@
+url: https://prod-skyonelive.akamaized.net/bbc-earth.mpd
+drm: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKd8AJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGA1CuKoRa2XJZJXfg2pA__JioW9fltkKgeGJyIXlrTyfoteHZYNnoYMy4BIz123KRAGSSCBxlD60M6BJNvbSBBSKeVUYHweIr21Fou7tnTtgRz9Nnx2gmn5W0tALUFgncgaV0MWMyCJRHS5osBp3cWUjbvSzw
