@@ -1,0 +1,2 @@
+url: https://prod-skyonelive.akamaized.net/cbeebies.mpd
+drm: https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=BQAutsOzKasAJGNlNDk3NDc3LThjZDMtNGE2Ny1hYThmLTk1ZTQwNDE1Mjg5MAAAAGBX4kT1SMfkGo-CoDhtdw-G9SLLnH8gH576OsY3_ps2c1K8vqlgUOEO_1XMKqwpXe5poS4WkN7xJQXL9aPYreNmo-rp4nPCjroZAhmLVXDR1tKFUt1E2JfS9FDpVm9PxgguhgQ8f7NZmhdGy8dBZktI0Czd8A
